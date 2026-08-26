@@ -109,4 +109,11 @@ alt="Photoshop" title="Photoshop" width="36" height="36" />
 </a>
 </p>
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BryanChC)
+<p align="center">
+  <a href="https://github.com/BryanChC">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=BryanChC&amp;rank_icon=github&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark"
+      alt="GitHub Stats"
+    />
+  </a>
+</p>
