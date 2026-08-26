@@ -7,99 +7,63 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51949293771)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/RyaxGG/)
 
-<div style="text-align: justify;">
+Estudiante de Ingeniería de Sistemas y Programador Junior, enfocado en seguir aprendiendo y desarrollando mis habilidades en programación, bases de datos y tecnología. Me interesa crear soluciones, participar en nuevos proyectos, compartir conocimientos y seguir creciendo profesionalmente en el mundo del desarrollo de software.
 
-  Estudiante de Ingeniería de Sistemas y Programador Junior, enfocado en seguir aprendiendo y desarrollando mis habilidades en programación, bases de datos y tecnología. Me interesa crear soluciones, participar en nuevos proyectos, compartir conocimientos y seguir creciendo profesionalmente en el mundo del desarrollo de software.
-
-</div>
-
-## 💻 Lenguajes y Frameworks</h3>
-
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"
-alt="C#" title="C#" width="36" height="36" />
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg"
-alt="Spring Boot" title="Spring Boot" width="36" height="36" />
-</a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
-alt="Java" title="Java" width="36" height="36" />
-</a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
-alt="Kotlin" title="Kotlin" width="36" height="36" />
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-alt="Python" title="Python" width="36" height="36" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-alt="HTML5" title="HTML5" width="36" height="36" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-alt="CSS3" title="CSS3" width="36" height="36" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
-alt="Bootstrap" title="Bootstrap" width="36" height="36" />
-</a>
-
-## 🗄️ Bases de Datos</h3>
-
-<a href="https://www.microsoft.com/sql-server/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-alt="Microsoft SQL Server" title="SQL / Microsoft SQL Server" width="36" height="36" />
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-alt="MySQL" title="MySQL" width="36" height="36" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-alt="MongoDB" title="MongoDB" width="36" height="36" />
-</a>
-
-## 🛠️ IDEs y Herramientas</h3>
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
-alt="Visual Studio Code" title="Visual Studio Code" width="36" height="36" />
-</a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
-alt="Android Studio" title="Android Studio" width="36" height="36" />
-</a>
-<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
-alt="Eclipse" title="Eclipse" width="36" height="36" />
-</a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-alt="IntelliJ IDEA" title="IntelliJ IDEA" width="36" height="36" />
-</a>
-<a href="https://www.bizagi.com/" target="_blank" rel="noreferrer">
-<img src="bizagi.png"
-alt="Bizagi Modeler" title="Bizagi Modeler" width="36" height="36" />
-</a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg"
-alt="Photoshop" title="Photoshop" width="36" height="36" />
-</a>
+## 💻 Lenguajes y Frameworks
 
 <div>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"
+  alt="C#" title="C#" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg"
+  alt="Spring Boot" title="Spring Boot" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
+  alt="Java" title="Java" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
+  alt="Kotlin" title="Kotlin" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
+  alt="Python" title="Python" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+  alt="HTML5" title="HTML5" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+  alt="CSS3" title="CSS3" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
+  alt="Bootstrap" title="Bootstrap" width="36" height="36" />
+</div>
+
+## 🗄️ Bases de Datos
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+  alt="Microsoft SQL Server" title="SQL / Microsoft SQL Server" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+  alt="MySQL" title="MySQL" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+  alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+  alt="MongoDB" title="MongoDB" width="36" height="36" />
+</div>
+
+## 🛠️ IDEs y Herramientas
+
+<div>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
+  alt="Visual Studio Code" title="Visual Studio Code" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
+  alt="Android Studio" title="Android Studio" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
+  alt="Eclipse" title="Eclipse" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+  alt="IntelliJ IDEA" title="IntelliJ IDEA" width="36" height="36" />
+  <img src="bizagi.png"
+  alt="Bizagi Modeler" title="Bizagi Modeler" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg"
+  alt="Photoshop" title="Photoshop" width="36" height="36" />
+</div>
+
+<div align="center">
   <br>
-  <a href="https://github.com/BryanChC">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=BryanChC&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark"
-      alt="GitHub Stats"
-    />
-  </a>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=BryanChC&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark"
+    alt="GitHub Stats"
+  />
 </div>
