@@ -94,11 +94,13 @@ alt="Bizagi Modeler" title="Bizagi Modeler" width="36" height="36" />
 alt="Photoshop" title="Photoshop" width="36" height="36" />
 </a>
 
-<p>
+<br><br>
+
+<div>
   <a href="https://github.com/BryanChC">
     <img
-      src="https://github-stats-extended.vercel.app/api?username=BryanChC&amp;rank_icon=github&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark"
+      src="https://github-stats-extended.vercel.app/api?username=BryanChC&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark"
       alt="GitHub Stats"
     />
   </a>
-</p>
+</div>
