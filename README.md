@@ -94,7 +94,7 @@ alt="Bizagi Modeler" title="Bizagi Modeler" width="36" height="36" />
 alt="Photoshop" title="Photoshop" width="36" height="36" />
 </a>
 
-<br><br>
+<br>
 
 <div>
   <a href="https://github.com/BryanChC">
