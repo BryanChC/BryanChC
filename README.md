@@ -1,19 +1,11 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFmZHpuaGg3NHNvN2tsMXgwYWo2cDEzYjF2aTNyNms2bjA2bG0wMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ztisqLhP99tVSHG136/giphy.gif" width="100"/> Bienvenid@ al Github de Bryan Ch.
 
-<div align="center">
-
 ![Banner de Bryan Ch.](github-header-banner.png)
-
-</div>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTAwLjI4IDQ0OEg3LjRWMTQ4LjloOTIuODh6bS00Ni40OS0zNDAuN0MyNC4wOSAxMDcuMyAwIDgzLjIgMCA1My42QTUzLjYgNTMuNiAwIDAgMSAxMDcuMiA1My42YzAgMjkuNi0yNC4xIDUzLjctNTMuNiA1My43ek00NDcuOSA0NDhoLTkyLjY4VjMwMi40YzAtMzQuNy0uNy03OS4yLTQ4LjI5LTc5LjItNDguMjkgMC01NS42OSAzNy43LTU1LjY5IDc2LjdWNDQ4aC05Mi43OFYxNDguOWg4OS4wOHY0MC44aDEuM2MxMi40LTIzLjUgNDIuNjktNDguMyA4Ny44OC00OC4zIDk0IDAgMTExLjI4IDYxLjkgMTExLjI4IDE0Mi4zVjQ0OHoiLz48L3N2Zz4=)](https://www.linkedin.com/in/bryancharahua/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ryax.cs/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51949293771)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/RyaxGG/)
-
-</div>
 
 <div style="text-align: justify;">
 
@@ -21,9 +13,8 @@
 
 </div>
 
-<h3 align="center">💻 Lenguajes y Frameworks</h3>
+## 💻 Lenguajes y Frameworks</h3>
 
-<p align="center">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"
 alt="C#" title="C#" width="36" height="36" />
@@ -56,11 +47,9 @@ alt="CSS3" title="CSS3" width="36" height="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
 alt="Bootstrap" title="Bootstrap" width="36" height="36" />
 </a>
-</p>
 
-<h3 align="center">🗄️ Bases de Datos</h3>
+## 🗄️ Bases de Datos</h3>
 
-<p align="center">
 <a href="https://www.microsoft.com/sql-server/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 alt="Microsoft SQL Server" title="SQL / Microsoft SQL Server" width="36" height="36" />
@@ -77,12 +66,9 @@ alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
 alt="MongoDB" title="MongoDB" width="36" height="36" />
 </a>
-</p>
 
+## 🛠️ IDEs y Herramientas</h3>
 
-<h3 align="center">🛠️ IDEs y Herramientas</h3>
-
-<p align="center">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
 alt="Visual Studio Code" title="Visual Studio Code" width="36" height="36" />
@@ -107,13 +93,8 @@ alt="Bizagi Modeler" title="Bizagi Modeler" width="36" height="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg"
 alt="Photoshop" title="Photoshop" width="36" height="36" />
 </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/BryanChC">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=BryanChC&amp;rank_icon=github&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark"
-      alt="GitHub Stats"
-    />
-  </a>
-</p>
+<a href="https://github.com/BryanChC">
+    <img src="https://github-stats-extended.vercel.app/api?username=BryanChC&amp;rank_icon=github&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark"
+    alt="GitHub Stats"/>
+</a>
