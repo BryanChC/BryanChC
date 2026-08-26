@@ -94,9 +94,8 @@ alt="Bizagi Modeler" title="Bizagi Modeler" width="36" height="36" />
 alt="Photoshop" title="Photoshop" width="36" height="36" />
 </a>
 
-<br>
-
 <div>
+  <br>
   <a href="https://github.com/BryanChC">
     <img
       src="https://github-stats-extended.vercel.app/api?username=BryanChC&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark"
